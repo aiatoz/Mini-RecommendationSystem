@@ -7,10 +7,10 @@ movies for a given title.
 
 ## Pipeline
 
-- Movie-User Matrix
+- Creation of Movie User matrix
 - SVD
-- Movie Embeddings
-- Cosine Similarity
+- Movie embeddings
+- Cosine similarity
 - Top K nearest movies
 
 
