@@ -1,4 +1,4 @@
-# Movie Recommendation System (MovieLens 100k)
+# Movie Recommendation System
 
 A content similarity movie recommender built on the MovieLens 100k dataset,
 using **TruncatedSVD** to learn dense movie embeddings from the movie user
